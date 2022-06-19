@@ -14,5 +14,8 @@ Make .env file in your root and define your firebase config variables there.</br
 Run the webpack by command 'npm run build'.</br>
 Open your index.html file or you can use live server in VS Code.</br>
 
+# Notes
+Emojis are stored in an online database firebase.
+
 # Demo link
 https://darling-empanada-5aefe7.netlify.app/
