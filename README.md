@@ -7,5 +7,12 @@ All saved emojis are shown below the virtual led screen in a grid layout</br>
 Who knows - maybe your cool emoji design will be featured on new De Vaja
 videos!
 
+# How to use?
+Clone the project.
+Install the node modules by command 'npm install'.
+Make .env file in your root and define your firebase config variables there.
+Run the webpack by command 'npm run build'.
+Open your index.html file or you can use live server in VS Code.
+
 # Demo link
 https://darling-empanada-5aefe7.netlify.app/
